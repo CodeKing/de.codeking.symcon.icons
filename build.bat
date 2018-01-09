@@ -11,9 +11,9 @@ break>icons.css
 cd icons
 
 :: loop icons and appent to css file
-for /R %%f in (*.png) do (
+for /R %%f in (*.svg) do (
     set icons=!icons! "%%~nf",
-    @echo .ipsIcon%%~nf { color: transparent^; min-height: 32px^; min-width: 32px^; background-position: center center^; background-size: 28px;^; background-image: url^(icons/%%~nf%%~xf^)^;} >> ../icons.css
+    @echo .ipsIcon%%~nf { background-image: url^(icons/%%~nf%%~xf^)^;} >> ../icons.css
 )
 
 :: remove last ; and whitespaces

@@ -1,223 +1,181 @@
-.ipsIconAircraft { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Aircraft.png);} 
-.ipsIconAlarm { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Alarm.png);} 
-.ipsIconAlert { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Alert.png);} 
-.ipsIconAmplifier { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Amplifier.png);} 
-.ipsIconArrowRight { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/ArrowRight.png);} 
-.ipsIconBackspace { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Backspace.png);} 
-.ipsIconBarcode { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Barcode.png);} 
-.ipsIconBarrel { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Barrel.png);} 
-.ipsIconBasement { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Basement.png);} 
-.ipsIconBath { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Bath.png);} 
-.ipsIconBattery-0 { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Battery-0.png);} 
-.ipsIconBattery-100 { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Battery-100.png);} 
-.ipsIconBattery-50 { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Battery-50.png);} 
-.ipsIconBattery { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Battery.png);} 
-.ipsIconBed { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Bed.png);} 
-.ipsIconBell { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Bell.png);} 
-.ipsIconBlind { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Blind.png);} 
-.ipsIconBulb-0 { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Bulb-0.png);} 
-.ipsIconBulb-1 { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Bulb-1.png);} 
-.ipsIconBulb { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Bulb.png);} 
-.ipsIconCalendar { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Calendar.png);} 
-.ipsIconCam { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Cam.png);} 
-.ipsIconCamera { background-image: url(icons/Camera.svg);}
-.ipsIconCar { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Car.png);} 
-.ipsIconCaravan { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Caravan.png);} 
-.ipsIconCaret { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Caret.png);} 
-.ipsIconCat { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Cat.png);} 
-.ipsIconCeilingLight { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/CeilingLight.png);} 
-.ipsIconCinema { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Cinema.png);} 
-.ipsIconClimate { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Climate.png);} 
-.ipsIconClock { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Clock.png);} 
-.ipsIconClose { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Close.png);} 
-.ipsIconCloseAll { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/CloseAll.png);} 
-.ipsIconCloud { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Cloud.png);} 
-.ipsIconCO2 { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/CO2.png);} 
-.ipsIconCocktail { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Cocktail.png);} 
-.ipsIconCross { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Cross.png);} 
-.ipsIconDatabase { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Database.png);} 
-.ipsIconDining { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Dining.png);} 
-.ipsIconDirections { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Directions.png);} 
-.ipsIconDistance { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Distance.png);} 
-.ipsIconDoctorBag { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/DoctorBag.png);} 
-.ipsIconDog { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Dog.png);} 
-.ipsIconDolby { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Dolby.png);} 
-.ipsIconDollar { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Dollar.png);} 
-.ipsIconDoor-0 { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Door-0.png);} 
-.ipsIconDoor-1 { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Door-1.png);} 
-.ipsIconDoor { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Door.png);} 
-.ipsIconDrops { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Drops.png);} 
-.ipsIconDuck { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Duck.png);} 
-.ipsIconEdit { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Edit.png);} 
-.ipsIconElectricity { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Electricity.png);} 
-.ipsIconErlenmeyerFlask { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/ErlenmeyerFlask.png);} 
-.ipsIconEuro { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Euro.png);} 
-.ipsIconExecute { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Execute.png);} 
-.ipsIconEyes-0 { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Eyes-0.png);} 
-.ipsIconEyes-100 { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Eyes-100.png);} 
-.ipsIconEyes { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Eyes.png);} 
-.ipsIconFactory { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Factory.png);} 
-.ipsIconFemale { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Female.png);} 
-.ipsIconFlag { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Flag.png);} 
-.ipsIconFlame { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Flame.png);} 
-.ipsIconFloor { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Floor.png);} 
-.ipsIconFlower { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Flower.png);} 
-.ipsIconFog { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Fog.png);} 
-.ipsIconFridge { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Fridge.png);} 
-.ipsIconGame { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Game.png);} 
-.ipsIconGamepad { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Gamepad.png);} 
-.ipsIconGarage-0 { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Garage-0.png);} 
-.ipsIconGarage-100 { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Garage-100.png);} 
-.ipsIconGarage-25 { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Garage-25.png);} 
-.ipsIconGarage { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Garage.png);} 
-.ipsIconGauge { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Gauge.png);} 
-.ipsIconGear { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Gear.png);} 
-.ipsIconGraph { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Graph.png);} 
-.ipsIconGroundFloor { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/GroundFloor.png);} 
-.ipsIconHollowArrowDown { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/HollowArrowDown.png);} 
-.ipsIconHollowArrowLeft { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/HollowArrowLeft.png);} 
-.ipsIconHollowArrowRight { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/HollowArrowRight.png);} 
-.ipsIconHollowArrowUp { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/HollowArrowUp.png);} 
-.ipsIconHollowDoubleArrowDown { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/HollowDoubleArrowDown.png);} 
-.ipsIconHollowDoubleArrowLeft { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/HollowDoubleArrowLeft.png);} 
-.ipsIconHollowDoubleArrowRight { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/HollowDoubleArrowRight.png);} 
-.ipsIconHollowDoubleArrowUp { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/HollowDoubleArrowUp.png);} 
-.ipsIconHollowLargeArrowDown { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/HollowLargeArrowDown.png);} 
-.ipsIconHollowLargeArrowLeft { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/HollowLargeArrowLeft.png);} 
-.ipsIconHollowLargeArrowRight { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/HollowLargeArrowRight.png);} 
-.ipsIconHollowLargeArrowUp { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/HollowLargeArrowUp.png);} 
-.ipsIconHome { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Home.png);} 
-.ipsIconHourGlass-0 { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/HourGlass-0.png);} 
-.ipsIconHourGlass-100 { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/HourGlass-100.png);} 
-.ipsIconHourGlass-30 { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/HourGlass-30.png);} 
-.ipsIconHourGlass-60 { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/HourGlass-60.png);} 
-.ipsIconHourglass { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Hourglass.png);} 
-.ipsIconHouseRemote { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/HouseRemote.png);} 
-.ipsIconImage { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Image.png);} 
-.ipsIconInformation { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Information.png);} 
-.ipsIconIntensity-0 { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Intensity-0.png);} 
-.ipsIconIntensity-100 { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Intensity-100.png);} 
-.ipsIconIntensity-25 { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Intensity-25.png);} 
-.ipsIconIntensity-50 { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Intensity-50.png);} 
-.ipsIconIntensity-75 { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Intensity-75.png);} 
-.ipsIconIntensity { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Intensity.png);} 
-.ipsIconInternet { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Internet.png);} 
-.ipsIconIPS { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/IPS.png);} 
-.ipsIconJalousie-0 { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Jalousie-0.png);} 
-.ipsIconJalousie-100 { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Jalousie-100.png);} 
-.ipsIconJalousie-50 { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Jalousie-50.png);} 
-.ipsIconJalousie { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Jalousie.png);} 
-.ipsIconKettle { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Kettle.png);} 
-.ipsIconKey { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Key.png);} 
-.ipsIconKeyboard { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Keyboard.png);} 
-.ipsIconKitchen { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Kitchen.png);} 
-.ipsIconLamp { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Lamp.png);} 
-.ipsIconLeaf { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Leaf.png);} 
-.ipsIconLight-0 { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Light-0.png);} 
-.ipsIconLight-1 { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Light-1.png);} 
-.ipsIconLight-100 { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Light-100.png);} 
-.ipsIconLight-25 { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Light-25.png);} 
-.ipsIconLight-50 { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Light-50.png);} 
-.ipsIconLight-75 { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Light-75.png);} 
-.ipsIconLight { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Light.png);} 
-.ipsIconLightning { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Lightning.png);} 
-.ipsIconLock-0 { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Lock-0.png);} 
-.ipsIconLock-100 { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Lock-100.png);} 
-.ipsIconLock { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Lock.png);} 
-.ipsIconLockClosed { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/LockClosed.png);} 
-.ipsIconLockOpen { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/LockOpen.png);} 
-.ipsIconMacro { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Macro.png);} 
-.ipsIconMail { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Mail.png);} 
-.ipsIconMale { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Male.png);} 
-.ipsIconMelody { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Melody.png);} 
-.ipsIconMinus { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Minus.png);} 
-.ipsIconMobile { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Mobile.png);} 
-.ipsIconMoon { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Moon.png);} 
-.ipsIconMotion { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Motion.png);} 
-.ipsIconMove { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Move.png);} 
-.ipsIconMovie { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Movie.png);} 
-.ipsIconMusic { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Music.png);} 
-.ipsIconMute { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Mute.png);} 
-.ipsIconNetwork { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Network.png);} 
-.ipsIconNotebook { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Notebook.png);} 
-.ipsIconOk { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Ok.png);} 
-.ipsIconPacifier { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Pacifier.png);} 
-.ipsIconPaintbrush { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Paintbrush.png);} 
-.ipsIconPHP { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/PHP.png);} 
-.ipsIconPlay { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Play.png);} 
-.ipsIconPlug { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Plug.png);} 
-.ipsIconPlus { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Plus.png);} 
-.ipsIconPopcorn { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Popcorn.png);} 
-.ipsIconPower { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Power.png);} 
-.ipsIconProjectorScreen { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/ProjectorScreen.png);} 
-.ipsIconRadiator { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Radiator.png);} 
-.ipsIconRainfall { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Rainfall.png);} 
-.ipsIconRatiator1 { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Ratiator1.png);} 
-.ipsIconRecording { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Recording.png);} 
-.ipsIconRecycling { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Recycling.png);} 
-.ipsIconRemote { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Remote.png);} 
-.ipsIconRepeat { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Repeat.png);} 
-.ipsIconReturn { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Return.png);} 
-.ipsIconRobot { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Robot.png);} 
-.ipsIconRocket { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Rocket.png);} 
-.ipsIconRoomba { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Roomba.png);} 
-.ipsIconScript { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Script.png);} 
-.ipsIconShift { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Shift.png);} 
-.ipsIconShower { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Shower.png);} 
-.ipsIconShuffle { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Shuffle.png);} 
-.ipsIconShutter { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Shutter.png);} 
-.ipsIconSleep { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Sleep.png);} 
-.ipsIconSnow { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Snow.png);} 
-.ipsIconSnowflake { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Snowflake.png);} 
-.ipsIconSofa { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Sofa.png);} 
-.ipsIconSolar { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Solar.png);} 
-.ipsIconSpeaker-0 { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Speaker-0.png);} 
-.ipsIconSpeaker-1 { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Speaker-1.png);} 
-.ipsIconSpeaker-100 { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Speaker-100.png);} 
-.ipsIconSpeaker-25 { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Speaker-25.png);} 
-.ipsIconSpeaker-50 { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Speaker-50.png);} 
-.ipsIconSpeaker { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Speaker.png);} 
-.ipsIconSpeedeo-0 { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Speedeo-0.png);} 
-.ipsIconSpeedeo-100 { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Speedeo-100.png);} 
-.ipsIconSpeedeo-25 { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Speedeo-25.png);} 
-.ipsIconSpeedeo-50 { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Speedeo-50.png);} 
-.ipsIconSpeedeo-75 { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Speedeo-75.png);} 
-.ipsIconSpeedo { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Speedo.png);} 
-.ipsIconStars { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Stars.png);} 
-.ipsIconStove { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Stove.png);} 
-.ipsIconSun { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Sun.png);} 
-.ipsIconSunrise { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Sunrise.png);} 
-.ipsIconSunset { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Sunset.png);} 
-.ipsIconTalk { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Talk.png);} 
-.ipsIconTap { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Tap.png);} 
-.ipsIconTelephone { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Telephone.png);} 
-.ipsIconTemperature-0 { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Temperature-0.png);} 
-.ipsIconTemperature-100 { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Temperature-100.png);} 
-.ipsIconTemperature-25 { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Temperature-25.png);} 
-.ipsIconTemperature-50 { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Temperature-50.png);} 
-.ipsIconTemperature-75 { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Temperature-75.png);} 
-.ipsIconTemperature { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Temperature.png);} 
-.ipsIconTitle { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Title.png);} 
-.ipsIconTopFloor { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/TopFloor.png);} 
-.ipsIconTowel { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Towel.png);} 
-.ipsIconTrain { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Train.png);} 
-.ipsIconTree { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Tree.png);} 
-.ipsIconTurnLeft { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/TurnLeft.png);} 
-.ipsIconTurnRight { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/TurnRight.png);} 
-.ipsIconTV { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/TV.png);} 
-.ipsIconUnicorn { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Unicorn.png);} 
-.ipsIconVentilation { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Ventilation.png);} 
-.ipsIconWarning { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Warning.png);} 
-.ipsIconWave { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Wave.png);} 
-.ipsIconWC { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/WC.png);} 
-.ipsIconWellness { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Wellness.png);} 
-.ipsIconWindDirection { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/WindDirection.png);} 
-.ipsIconWindow-0 { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Window-0.png);} 
-.ipsIconWindow-100 { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Window-100.png);} 
-.ipsIconWindow { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Window.png);} 
-.ipsIconWindSpeed-0 { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/WindSpeed-0.png);} 
-.ipsIconWindSpeed-100 { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/WindSpeed-100.png);} 
-.ipsIconWindSpeed-30 { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/WindSpeed-30.png);} 
-.ipsIconWindSpeed-60 { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/WindSpeed-60.png);} 
-.ipsIconWindSpeed { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/WindSpeed.png);} 
-.ipsIconXBMC { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/XBMC.png);} 
+.ipsIconAircraft { background-image: url(icons/Aircraft.svg);} 
+.ipsIconAlarm { background-image: url(icons/Alarm.svg);} 
+.ipsIconAlert { background-image: url(icons/Alert.svg);} 
+.ipsIconAmplifier { background-image: url(icons/Amplifier.svg);} 
+.ipsIconArrowRight { background-image: url(icons/ArrowRight.svg);} 
+.ipsIconBackspace { background-image: url(icons/Backspace.svg);} 
+.ipsIconBarcode { background-image: url(icons/Barcode.svg);} 
+.ipsIconBarrel { background-image: url(icons/Barrel.svg);} 
+.ipsIconBasement { background-image: url(icons/Basement.svg);} 
+.ipsIconBattery { background-image: url(icons/Battery.svg);} 
+.ipsIconBed { background-image: url(icons/Bed.svg);} 
+.ipsIconBell { background-image: url(icons/Bell.svg);} 
+.ipsIconBlind { background-image: url(icons/Blind.svg);} 
+.ipsIconBulb { background-image: url(icons/Bulb.svg);} 
+.ipsIconCalendar { background-image: url(icons/Calendar.svg);} 
+.ipsIconCamera { background-image: url(icons/Camera.svg);} 
+.ipsIconCar { background-image: url(icons/Car.svg);} 
+.ipsIconCaravan { background-image: url(icons/Caravan.svg);} 
+.ipsIconCaret { background-image: url(icons/Caret.svg);} 
+.ipsIconCat { background-image: url(icons/Cat.svg);} 
+.ipsIconCeilingLight { background-image: url(icons/CeilingLight.svg);} 
+.ipsIconCinema { background-image: url(icons/Cinema.svg);} 
+.ipsIconClimate { background-image: url(icons/Climate.svg);} 
+.ipsIconClock { background-image: url(icons/Clock.svg);} 
+.ipsIconClose { background-image: url(icons/Close.svg);} 
+.ipsIconCloseAll { background-image: url(icons/CloseAll.svg);} 
+.ipsIconCloud { background-image: url(icons/Cloud.svg);} 
+.ipsIconCO2 { background-image: url(icons/CO2.svg);} 
+.ipsIconCocktail { background-image: url(icons/Cocktail.svg);} 
+.ipsIconCross { background-image: url(icons/Cross.svg);} 
+.ipsIconDatabase { background-image: url(icons/Database.svg);} 
+.ipsIconDining { background-image: url(icons/Dining.svg);} 
+.ipsIconDirections { background-image: url(icons/Directions.svg);} 
+.ipsIconDistance { background-image: url(icons/Distance.svg);} 
+.ipsIconDoctorBag { background-image: url(icons/DoctorBag.svg);} 
+.ipsIconDog { background-image: url(icons/Dog.svg);} 
+.ipsIconDolby { background-image: url(icons/Dolby.svg);} 
+.ipsIconDollar { background-image: url(icons/Dollar.svg);} 
+.ipsIconDoor-0 { background-image: url(icons/Door-0.svg);} 
+.ipsIconDoor-100 { background-image: url(icons/Door-100.svg);} 
+.ipsIconDoor { background-image: url(icons/Door.svg);} 
+.ipsIconDrops { background-image: url(icons/Drops.svg);} 
+.ipsIconDuck { background-image: url(icons/Duck.svg);} 
+.ipsIconEdit { background-image: url(icons/Edit.svg);} 
+.ipsIconElectricity { background-image: url(icons/Electricity.svg);} 
+.ipsIconErlenmeyerFlask { background-image: url(icons/ErlenmeyerFlask.svg);} 
+.ipsIconEuro { background-image: url(icons/Euro.svg);} 
+.ipsIconExecute { background-image: url(icons/Execute.svg);} 
+.ipsIconEyes-0 { background-image: url(icons/Eyes-0.svg);} 
+.ipsIconEyes-100 { background-image: url(icons/Eyes-100.svg);} 
+.ipsIconEyes { background-image: url(icons/Eyes.svg);} 
+.ipsIconFactory { background-image: url(icons/Factory.svg);} 
+.ipsIconFemale { background-image: url(icons/Female.svg);} 
+.ipsIconFlag { background-image: url(icons/Flag.svg);} 
+.ipsIconFlame { background-image: url(icons/Flame.svg);} 
+.ipsIconFloor { background-image: url(icons/Floor.svg);} 
+.ipsIconFlower { background-image: url(icons/Flower.svg);} 
+.ipsIconFog { background-image: url(icons/Fog.svg);} 
+.ipsIconFridge { background-image: url(icons/Fridge.svg);} 
+.ipsIconGame { background-image: url(icons/Game.svg);} 
+.ipsIconGamepad { background-image: url(icons/Gamepad.svg);} 
+.ipsIconGarage-0 { background-image: url(icons/Garage-0.svg);} 
+.ipsIconGarage-100 { background-image: url(icons/Garage-100.svg);} 
+.ipsIconGarage-25 { background-image: url(icons/Garage-25.svg);} 
+.ipsIconGarage { background-image: url(icons/Garage.svg);} 
+.ipsIconGauge { background-image: url(icons/Gauge.svg);} 
+.ipsIconGear { background-image: url(icons/Gear.svg);} 
+.ipsIconGraph { background-image: url(icons/Graph.svg);} 
+.ipsIconGroundFloor { background-image: url(icons/GroundFloor.svg);} 
+.ipsIconHollowArrowDown { background-image: url(icons/HollowArrowDown.svg);} 
+.ipsIconHollowArrowLeft { background-image: url(icons/HollowArrowLeft.svg);} 
+.ipsIconHollowArrowRight { background-image: url(icons/HollowArrowRight.svg);} 
+.ipsIconHollowArrowUp { background-image: url(icons/HollowArrowUp.svg);} 
+.ipsIconHollowDoubleArrowDown { background-image: url(icons/HollowDoubleArrowDown.svg);} 
+.ipsIconHollowDoubleArrowLeft { background-image: url(icons/HollowDoubleArrowLeft.svg);} 
+.ipsIconHollowDoubleArrowRight { background-image: url(icons/HollowDoubleArrowRight.svg);} 
+.ipsIconHollowDoubleArrowUp { background-image: url(icons/HollowDoubleArrowUp.svg);} 
+.ipsIconHollowLargeArrowDown { background-image: url(icons/HollowLargeArrowDown.svg);} 
+.ipsIconHollowLargeArrowLeft { background-image: url(icons/HollowLargeArrowLeft.svg);} 
+.ipsIconHollowLargeArrowRight { background-image: url(icons/HollowLargeArrowRight.svg);} 
+.ipsIconHollowLargeArrowUp { background-image: url(icons/HollowLargeArrowUp.svg);} 
+.ipsIconHome { background-image: url(icons/Home.svg);} 
+.ipsIconHourGlass-0 { background-image: url(icons/HourGlass-0.svg);} 
+.ipsIconHourglass { background-image: url(icons/Hourglass.svg);} 
+.ipsIconHouseRemote { background-image: url(icons/HouseRemote.svg);} 
+.ipsIconImage { background-image: url(icons/Image.svg);} 
+.ipsIconInformation { background-image: url(icons/Information.svg);} 
+.ipsIconIntensity-0 { background-image: url(icons/Intensity-0.svg);} 
+.ipsIconIntensity { background-image: url(icons/Intensity.svg);} 
+.ipsIconInternet { background-image: url(icons/Internet.svg);} 
+.ipsIconIPS { background-image: url(icons/IPS.svg);} 
+.ipsIconJalousie { background-image: url(icons/Jalousie.svg);} 
+.ipsIconKettle { background-image: url(icons/Kettle.svg);} 
+.ipsIconKey { background-image: url(icons/Key.svg);} 
+.ipsIconKeyboard { background-image: url(icons/Keyboard.svg);} 
+.ipsIconKitchen { background-image: url(icons/Kitchen.svg);} 
+.ipsIconLamp { background-image: url(icons/Lamp.svg);} 
+.ipsIconLeaf { background-image: url(icons/Leaf.svg);} 
+.ipsIconLight { background-image: url(icons/Light.svg);} 
+.ipsIconLightning { background-image: url(icons/Lightning.svg);} 
+.ipsIconLock { background-image: url(icons/Lock.svg);} 
+.ipsIconLockClosed { background-image: url(icons/LockClosed.svg);} 
+.ipsIconLockOpen { background-image: url(icons/LockOpen.svg);} 
+.ipsIconMacro { background-image: url(icons/Macro.svg);} 
+.ipsIconMail { background-image: url(icons/Mail.svg);} 
+.ipsIconMailbox { background-image: url(icons/Mailbox.svg);} 
+.ipsIconMale { background-image: url(icons/Male.svg);} 
+.ipsIconMelody { background-image: url(icons/Melody.svg);} 
+.ipsIconminus { background-image: url(icons/minus.svg);} 
+.ipsIconMobile { background-image: url(icons/Mobile.svg);} 
+.ipsIconMotion { background-image: url(icons/Motion.svg);} 
+.ipsIconMove { background-image: url(icons/Move.svg);} 
+.ipsIconMovie { background-image: url(icons/Movie.svg);} 
+.ipsIconMusic { background-image: url(icons/Music.svg);} 
+.ipsIconMute { background-image: url(icons/Mute.svg);} 
+.ipsIconNetwork { background-image: url(icons/Network.svg);} 
+.ipsIconNotebook { background-image: url(icons/Notebook.svg);} 
+.ipsIconOk { background-image: url(icons/Ok.svg);} 
+.ipsIconPaintbrush { background-image: url(icons/Paintbrush.svg);} 
+.ipsIconPHP { background-image: url(icons/PHP.svg);} 
+.ipsIconPlay { background-image: url(icons/Play.svg);} 
+.ipsIconPlug { background-image: url(icons/Plug.svg);} 
+.ipsIconPlus { background-image: url(icons/Plus.svg);} 
+.ipsIconPopcorn { background-image: url(icons/Popcorn.svg);} 
+.ipsIconPower { background-image: url(icons/Power.svg);} 
+.ipsIconProjector { background-image: url(icons/Projector.svg);} 
+.ipsIconProjectorScreen { background-image: url(icons/ProjectorScreen.svg);} 
+.ipsIconRadiator { background-image: url(icons/Radiator.svg);} 
+.ipsIconRainfall { background-image: url(icons/Rainfall.svg);} 
+.ipsIconRecording { background-image: url(icons/Recording.svg);} 
+.ipsIconRecycling { background-image: url(icons/Recycling.svg);} 
+.ipsIconRemote { background-image: url(icons/Remote.svg);} 
+.ipsIconRepeat { background-image: url(icons/Repeat.svg);} 
+.ipsIconReturn { background-image: url(icons/Return.svg);} 
+.ipsIconRobot { background-image: url(icons/Robot.svg);} 
+.ipsIconRocket { background-image: url(icons/Rocket.svg);} 
+.ipsIconRoomba { background-image: url(icons/Roomba.svg);} 
+.ipsIconScript { background-image: url(icons/Script.svg);} 
+.ipsIconShift { background-image: url(icons/Shift.svg);} 
+.ipsIconShuffle { background-image: url(icons/Shuffle.svg);} 
+.ipsIconShutter { background-image: url(icons/Shutter.svg);} 
+.ipsIconSleep { background-image: url(icons/Sleep.svg);} 
+.ipsIconSnow { background-image: url(icons/Snow.svg);} 
+.ipsIconSnowflake { background-image: url(icons/Snowflake.svg);} 
+.ipsIconSocket { background-image: url(icons/Socket.svg);} 
+.ipsIconSofa { background-image: url(icons/Sofa.svg);} 
+.ipsIconSolar { background-image: url(icons/Solar.svg);} 
+.ipsIconSpeaker-0 { background-image: url(icons/Speaker-0.svg);} 
+.ipsIconSpeaker-1 { background-image: url(icons/Speaker-1.svg);} 
+.ipsIconSpeaker-100 { background-image: url(icons/Speaker-100.svg);} 
+.ipsIconSpeaker-25 { background-image: url(icons/Speaker-25.svg);} 
+.ipsIconSpeaker-50 { background-image: url(icons/Speaker-50.svg);} 
+.ipsIconSpeaker { background-image: url(icons/Speaker.svg);} 
+.ipsIconSpeedo { background-image: url(icons/Speedo.svg);} 
+.ipsIconStars { background-image: url(icons/Stars.svg);} 
+.ipsIconStove { background-image: url(icons/Stove.svg);} 
+.ipsIconSun { background-image: url(icons/Sun.svg);} 
+.ipsIconSunrise { background-image: url(icons/Sunrise.svg);} 
+.ipsIconSunset { background-image: url(icons/Sunset.svg);} 
+.ipsIconTalk { background-image: url(icons/Talk.svg);} 
+.ipsIconTap { background-image: url(icons/Tap.svg);} 
+.ipsIconTelephone { background-image: url(icons/Telephone.svg);} 
+.ipsIconTemperature { background-image: url(icons/Temperature.svg);} 
+.ipsIconTitle { background-image: url(icons/Title.svg);} 
+.ipsIconTopFloor { background-image: url(icons/TopFloor.svg);} 
+.ipsIconTrain { background-image: url(icons/Train.svg);} 
+.ipsIconTree { background-image: url(icons/Tree.svg);} 
+.ipsIconTurnLeft { background-image: url(icons/TurnLeft.svg);} 
+.ipsIconTurnRight { background-image: url(icons/TurnRight.svg);} 
+.ipsIconTV { background-image: url(icons/TV.svg);} 
+.ipsIconVentilation { background-image: url(icons/Ventilation.svg);} 
+.ipsIconWarning { background-image: url(icons/Warning.svg);} 
+.ipsIconWave { background-image: url(icons/Wave.svg);} 
+.ipsIconWC { background-image: url(icons/WC.svg);} 
+.ipsIconweather-night { background-image: url(icons/weather-night.svg);} 
+.ipsIconWindDirection { background-image: url(icons/WindDirection.svg);} 
+.ipsIconWindow-0 { background-image: url(icons/Window-0.svg);} 
+.ipsIconWindow-100 { background-image: url(icons/Window-100.svg);} 
+.ipsIconWindow { background-image: url(icons/Window.svg);} 
+.ipsIconWindSpeed { background-image: url(icons/WindSpeed.svg);} 
+.ipsIconXBMC { background-image: url(icons/XBMC.svg);} 
