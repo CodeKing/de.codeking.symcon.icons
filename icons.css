@@ -20,7 +20,7 @@
 .ipsIconBulb { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Bulb.png);} 
 .ipsIconCalendar { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Calendar.png);} 
 .ipsIconCam { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Cam.png);} 
-.ipsIconCamera { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Camera.png);} 
+.ipsIconCamera { background-image: url(icons/Camera.svg);}
 .ipsIconCar { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Car.png);} 
 .ipsIconCaravan { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Caravan.png);} 
 .ipsIconCaret { color: transparent; min-height: 32px; min-width: 32px; background-position: center center; background-size: 28px;; background-image: url(icons/Caret.png);} 
