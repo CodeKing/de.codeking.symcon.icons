@@ -14,7 +14,9 @@
 .ipsIconBell { background-image: url(icons/Bell.svg); background-size: 25px; } 
 .ipsIconBlind { background-image: url(icons/Blind.svg); background-size: 25px; } 
 .ipsIconBulb { background-image: url(icons/Bulb.svg); background-size: 25px; } 
+.ipsIconCalculator { background-image: url(icons/Calculator.svg); background-size: 25px; } 
 .ipsIconCalendar { background-image: url(icons/Calendar.svg); background-size: 25px; } 
+.ipsIconCalendarCheck { background-image: url(icons/CalendarCheck.svg); background-size: 25px; } 
 .ipsIconCamera { background-image: url(icons/Camera.svg); background-size: 25px; } 
 .ipsIconCar { background-image: url(icons/Car.svg); background-size: 25px; } 
 .ipsIconCaravan { background-image: url(icons/Caravan.svg); background-size: 25px; } 
@@ -66,6 +68,7 @@
 .ipsIconGarage-100 { background-image: url(icons/Garage-100.svg); background-size: 25px; } 
 .ipsIconGarage-25 { background-image: url(icons/Garage-25.svg); background-size: 25px; } 
 .ipsIconGarage { background-image: url(icons/Garage.svg); background-size: 25px; } 
+.ipsIconGasStation { background-image: url(icons/GasStation.svg); background-size: 25px; } 
 .ipsIconGauge { background-image: url(icons/Gauge.svg); background-size: 25px; } 
 .ipsIconGear { background-image: url(icons/Gear.svg); background-size: 25px; } 
 .ipsIconGraph { background-image: url(icons/Graph.svg); background-size: 25px; } 
@@ -178,7 +181,6 @@
 .ipsIconTalk { background-image: url(icons/Talk.svg); background-size: 25px; } 
 .ipsIconTap { background-image: url(icons/Tap.svg); background-size: 25px; } 
 .ipsIconTelephone { background-image: url(icons/Telephone.svg); background-size: 25px; } 
-.ipsIconTemperature { background-image: url(icons/Temperature.svg); background-size: 25px; } 
 .ipsIconTitle { background-image: url(icons/Title.svg); background-size: 25px; } 
 .ipsIconToday { background-image: url(icons/Today.svg); background-size: 25px; } 
 .ipsIconTrain { background-image: url(icons/Train.svg); background-size: 25px; } 
