@@ -90,10 +90,10 @@
 .ipsIconHollowLargeArrowRight{background-image:url(icons/HollowLargeArrowRight.svg);} 
 .ipsIconHollowLargeArrowUp{background-image:url(icons/HollowLargeArrowUp.svg);} 
 .ipsIconHome{background-image:url(icons/Home.svg);} 
-.ipsIconHourGlass-0{background-image:url(icons/HourGlass-0.svg);} 
-.ipsIconHourGlass-100{background-image:url(icons/HourGlass-100.svg);} 
+.ipsIconHourglass-0{background-image:url(icons/Hourglass-0.svg);} 
+.ipsIconHourglass-100{background-image:url(icons/Hourglass-100.svg);} 
 .ipsIconHourglass-30{background-image:url(icons/Hourglass-30.svg);} 
-.ipsIconHourGlass-60{background-image:url(icons/HourGlass-60.svg);} 
+.ipsIconHourglass-60{background-image:url(icons/Hourglass-60.svg);} 
 .ipsIconHourglass{background-image:url(icons/Hourglass.svg);} 
 .ipsIconHouseRemote{background-image:url(icons/HouseRemote.svg);} 
 .ipsIconImage{background-image:url(icons/Image.svg);} 
@@ -190,6 +190,12 @@
 .ipsIconTalk{background-image:url(icons/Talk.svg);} 
 .ipsIconTap{background-image:url(icons/Tap.svg);} 
 .ipsIconTelephone{background-image:url(icons/Telephone.svg);} 
+.ipsIconTemperature-0{background-image:url(icons/Temperature-0.svg);} 
+.ipsIconTemperature-100{background-image:url(icons/Temperature-100.svg);} 
+.ipsIconTemperature-25{background-image:url(icons/Temperature-25.svg);} 
+.ipsIconTemperature-50{background-image:url(icons/Temperature-50.svg);} 
+.ipsIconTemperature-75{background-image:url(icons/Temperature-75.svg);} 
+.ipsIconTemperature{background-image:url(icons/Temperature.svg);} 
 .ipsIconTitle{background-image:url(icons/Title.svg);} 
 .ipsIconToday{background-image:url(icons/Today.svg);} 
 .ipsIconTrain{background-image:url(icons/Train.svg);} 
