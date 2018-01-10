@@ -13,7 +13,7 @@ cd icons
 :: loop icons and appent to css file
 for /R %%f in (*.svg) do (
     set icons=!icons! "%%~nf",
-    @echo .ipsIcon%%~nf { background-image: url^(icons/%%~nf%%~xf^)^; background-size: 25px;^ } >> ../icons.css
+    @echo .ipsIcon%%~nf{background-image:url^(icons/%%~nf%%~xf^)^;} >> ../icons.css
 )
 
 :: remove last ; and whitespaces
