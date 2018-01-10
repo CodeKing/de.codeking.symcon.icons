@@ -4,6 +4,7 @@
 .ipsIconAmbilight { background-image: url(icons/Ambilight.svg); background-size: 25px; } 
 .ipsIconAmplifier { background-image: url(icons/Amplifier.svg); background-size: 25px; } 
 .ipsIconArrowRight { background-image: url(icons/ArrowRight.svg); background-size: 25px; } 
+.ipsIconAwning { background-image: url(icons/Awning.svg); background-size: 25px; } 
 .ipsIconBackspace { background-image: url(icons/Backspace.svg); background-size: 25px; } 
 .ipsIconBarcode { background-image: url(icons/Barcode.svg); background-size: 25px; } 
 .ipsIconBarrel { background-image: url(icons/Barrel.svg); background-size: 25px; } 
@@ -75,6 +76,7 @@
 .ipsIconGauge { background-image: url(icons/Gauge.svg); background-size: 25px; } 
 .ipsIconGear { background-image: url(icons/Gear.svg); background-size: 25px; } 
 .ipsIconGraph { background-image: url(icons/Graph.svg); background-size: 25px; } 
+.ipsIconGrass { background-image: url(icons/Grass.svg); background-size: 25px; } 
 .ipsIconHollowArrowDown { background-image: url(icons/HollowArrowDown.svg); background-size: 25px; } 
 .ipsIconHollowArrowLeft { background-image: url(icons/HollowArrowLeft.svg); background-size: 25px; } 
 .ipsIconHollowArrowRight { background-image: url(icons/HollowArrowRight.svg); background-size: 25px; } 
@@ -163,6 +165,7 @@
 .ipsIconRocket { background-image: url(icons/Rocket.svg); background-size: 25px; } 
 .ipsIconRoomba { background-image: url(icons/Roomba.svg); background-size: 25px; } 
 .ipsIconScript { background-image: url(icons/Script.svg); background-size: 25px; } 
+.ipsIconSecurityCam { background-image: url(icons/SecurityCam.svg); background-size: 25px; } 
 .ipsIconShift { background-image: url(icons/Shift.svg); background-size: 25px; } 
 .ipsIconShuffle { background-image: url(icons/Shuffle.svg); background-size: 25px; } 
 .ipsIconShutter { background-image: url(icons/Shutter.svg); background-size: 25px; } 
