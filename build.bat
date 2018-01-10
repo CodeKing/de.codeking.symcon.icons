@@ -51,3 +51,5 @@ echo ^} >> skin.json
 
 :: finished!
 echo skin v%value[1]% created!
+echo.
+pause
