@@ -62,6 +62,7 @@
 .ipsIconFloor { background-image: url(icons/Floor.svg); background-size: 25px; } 
 .ipsIconFlower { background-image: url(icons/Flower.svg); background-size: 25px; } 
 .ipsIconFog { background-image: url(icons/Fog.svg); background-size: 25px; } 
+.ipsIconForecast { background-image: url(icons/Forecast.svg); background-size: 25px; } 
 .ipsIconFridge { background-image: url(icons/Fridge.svg); background-size: 25px; } 
 .ipsIconGame { background-image: url(icons/Game.svg); background-size: 25px; } 
 .ipsIconGamepad { background-image: url(icons/Gamepad.svg); background-size: 25px; } 
@@ -124,6 +125,7 @@
 .ipsIconLock { background-image: url(icons/Lock.svg); background-size: 25px; } 
 .ipsIconLockClosed { background-image: url(icons/LockClosed.svg); background-size: 25px; } 
 .ipsIconLockOpen { background-image: url(icons/LockOpen.svg); background-size: 25px; } 
+.ipsIconLooks { background-image: url(icons/Looks.svg); background-size: 25px; } 
 .ipsIconMacro { background-image: url(icons/Macro.svg); background-size: 25px; } 
 .ipsIconMail { background-image: url(icons/Mail.svg); background-size: 25px; } 
 .ipsIconMailbox { background-image: url(icons/Mailbox.svg); background-size: 25px; } 
@@ -189,8 +191,10 @@
 .ipsIconTurnLeft { background-image: url(icons/TurnLeft.svg); background-size: 25px; } 
 .ipsIconTurnRight { background-image: url(icons/TurnRight.svg); background-size: 25px; } 
 .ipsIconTV { background-image: url(icons/TV.svg); background-size: 25px; } 
+.ipsIconUmbrella { background-image: url(icons/Umbrella.svg); background-size: 25px; } 
 .ipsIconVentilation { background-image: url(icons/Ventilation.svg); background-size: 25px; } 
 .ipsIconWarning { background-image: url(icons/Warning.svg); background-size: 25px; } 
+.ipsIconWater { background-image: url(icons/Water.svg); background-size: 25px; } 
 .ipsIconWave { background-image: url(icons/Wave.svg); background-size: 25px; } 
 .ipsIconWC { background-image: url(icons/WC.svg); background-size: 25px; } 
 .ipsIconweather-night { background-image: url(icons/weather-night.svg); background-size: 25px; } 
