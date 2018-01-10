@@ -1,31 +1,53 @@
 @echo off
 setlocal enabledelayedexpansion
 
-:: variables
+:: read skin.json
+set config[0]=author
+set config[1]=version
+set config[2]=compatible
+set config[3]=url
+set config[4]=git
+set config[5]=icons
+set value[5]=
+
+set c=-1
+for /f "tokens=2 delims=,, " %%a in (' find ":" ^< "skin.json" ') do (
+    set /a c+=1
+    set value[!c!]=%%~a
+)
+
+:: update version number
+set value[1]=!value[1]:^.=!
+set /a value[1]+=1
+set value[1]=!value[1]:~0,1!.!value[1]:~-2!
+
+:: read icons
 set icons=
+break>./icons.css
 
-:: clear current css file
-break>icons.css
-
-:: change to icons folder
-cd icons
-
-:: loop icons and appent to css file
-for /R %%f in (*.svg) do (
+:: loop icons and append to css file
+for /R %%f in (./icons/*.svg) do (
     set icons=!icons! "%%~nf",
-    @echo .ipsIcon%%~nf{background-image:url^(icons/%%~nf%%~xf^)^;} >> ../icons.css
+    @echo .ipsIcon%%~nf{background-image:url^(icons/%%~nf%%~xf^)^;} >> ./icons.css
 )
 
 :: remove last ; and whitespaces
-set icons=!icons:~1!
-set icons=!icons:~0,-1!
+set value[5]=!icons:~1!
+set value[5]=!icons:~0,-1!
 
-:: echo output
-echo JSON Definitionen:
-echo ====================================================================
-echo(
-echo.%icons%
-echo(
-echo(
+:: build updated json config
+break>./skin.json
+echo ^{ >> skin.json
 
-pause
+for /l %%k in (0, 1, %c%) do (
+    if /i !config[%%k]!==icons (
+        echo   !json!"!config[%%k]!"^: [!value[%%k]!] >> skin.json
+    ) else (
+        echo   !json!"!config[%%k]!"^: "!value[%%k]!", >> skin.json
+    )
+)
+
+echo ^} >> skin.json
+
+:: finished!
+echo skin v%value[1]% created!
